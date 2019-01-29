@@ -1,0 +1,22 @@
+{
+  "name": "nodetester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelvinwijaya/nodetester.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelvinwijaya/nodetester/issues"
+  },
+  "homepage": "https://github.com/kelvinwijaya/nodetester#readme",
+  "dependencies": {
+    "api-test-helper": "git+https://github.com/lim-ming-tat/api-test-helper.git"
+  }
+}
